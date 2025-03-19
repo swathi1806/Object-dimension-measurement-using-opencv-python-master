@@ -16,3 +16,6 @@ Displays measurement results on the image.
 
 ## Output
 
+![object](output1.jpeg)
+
+![object](output2.jpeg)
